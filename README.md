@@ -1,4 +1,4 @@
-# Clustering Demos
+# Partition-Clustering-Learning
 
 This repository contains demonstrations of various clustering algorithms and techniques using the Iris flower dataset.
 
