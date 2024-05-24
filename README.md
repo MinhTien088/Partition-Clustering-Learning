@@ -7,7 +7,7 @@ This repository contains demonstrations of various clustering algorithms and tec
 - `demo/`: Directory containing the Iris flower dataset.
 - `Presentation.pptx`: A PowerPoint presentation related to the project.
 - `demo0.ipynb`: A Jupyter Notebook demonstrating hard clustering (K-Means) on the Iris dataset and evaluating the clustering algorithm's performance.
-- `demo1.ipynb`: A Jupyter Notebook demonstrating soft clustering using Fuzzy C-Means for image dimensionality reduction.
+- `demo1.ipynb`: A Jupyter Notebook demonstrating soft clustering using Fuzzy C-Means for  image quantization.
 
 ## Requirements
 
