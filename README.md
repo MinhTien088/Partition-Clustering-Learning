@@ -17,6 +17,4 @@ This repository contains demonstrations of various clustering algorithms and tec
 
 ## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request.
-
 Thank you to [Thanhhien1005](https://github.com/Thanhhien1005), [phanQuock2](https://github.com/phanQuock2), and [ntp2003](https://github.com/ntp2003) for collaborating on this project report.
